@@ -1,0 +1,38 @@
+.hero-section {
+  height: 70vh;
+  width: 100%;
+  background: linear-gradient(135deg, #1c7c54, #78c091);
+  color: white;
+  padding: 20px;
+}
+
+.content-box {
+  max-width: 700px;
+  margin: auto;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.subtitle {
+  margin-top: 15px;
+  font-size: 1.4rem;
+  opacity: 0.9;
+}
+
+.desc {
+  font-size: 1rem;
+  margin-top: 15px;
+}
+
+.link {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
